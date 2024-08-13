@@ -1,0 +1,22 @@
+#home-page{
+	width:50%;
+	margin:auto;
+	text-align:center;
+	margin-top:10%;
+	font-size:40px;
+	border:1px solid red;
+	padding:20px;
+}
+#home-page a{
+	text-decoration:none;
+}
+.cont-cent{
+	width:50%;
+	margin:auto;
+		padding:20px;
+		
+}
+form{
+	margin-left:20%;
+	font-size:20px;
+}
